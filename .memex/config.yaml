@@ -1,4 +1,4 @@
-card_image: ''
+card_image: https://sample.memexdata.com/universe_images/slidev-image.png
 created_at: 2025-02-18 01:47:20.701000
 creator_id: unknown
 deployment:
@@ -15,7 +15,7 @@ git:
   branch: main
   remote: origin
   url: https://github.com/davidvgilmore/memex-slidev
-hero_image: ''
+hero_image: https://sample.memexdata.com/universe_images/slidev-image.png
 icon: ''
 is_published: true
 pills:
